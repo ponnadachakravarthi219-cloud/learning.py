@@ -27,4 +27,5 @@ score = 10
 score = 20 
 print(score)
 
-# 
+name = "king" 
+print(name)
